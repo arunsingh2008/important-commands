@@ -1,2 +1,2 @@
 az account subscription list
-az account subscription enable --subscription-id "id"
+az account subscription enable --subscription-id "subscriptionId"
